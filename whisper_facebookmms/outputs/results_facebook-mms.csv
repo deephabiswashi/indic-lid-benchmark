@@ -1,0 +1,21 @@
+model,lang,audio,true,pred_top1,pred_top1_score,pred_top3,correct_top1,correct_top3
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22446033.wav,or,ory,0.9978376030921936,"['ory', 'bfz', 'bgc']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22278034.wav,or,ory,0.9991920590400696,"['ory', 'bfz', 'asm']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22256344.wav,or,ory,0.9993597865104675,"['ory', 'asm', 'ben']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_21843277.wav,or,ory,0.999005138874054,"['ory', 'ben', 'bfz']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_21833746.wav,or,ory,0.999381422996521,"['ory', 'ben', 'asm']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_21821328.wav,or,ory,0.9991917014122009,"['ory', 'bfz', 'ben']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_21821330.wav,or,ory,0.9992802739143372,"['ory', 'asm', 'ben']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_21821331.wav,or,ory,0.9991863369941711,"['ory', 'bfz', 'ben']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22107924.wav,or,ory,0.9989258646965027,"['ory', 'dgo', 'ben']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22107927.wav,or,ory,0.9987866282463074,"['ory', 'ben', 'asm']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22271359.wav,or,ory,0.9994164705276489,"['ory', 'asm', 'ben']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22284442.wav,or,ory,0.9994230270385742,"['ory', 'ben', 'asm']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22284443.wav,or,ory,0.9993755221366882,"['ory', 'bfz', 'luo']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22284444.wav,or,ory,0.9992837309837341,"['ory', 'bfz', 'ben']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22250550.wav,or,ory,0.9990884065628052,"['ory', 'asm', 'bfz']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22250551.wav,or,ory,0.998531699180603,"['ory', 'asm', 'ben']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22250584.wav,or,ory,0.9994481205940247,"['ory', 'asm', 'ben']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22250585.wav,or,ory,0.999273955821991,"['ory', 'asm', 'ben']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22250636.wav,or,ory,0.9992769360542297,"['ory', 'asm', 'bfz']",False,False
+facebook-mms,or,C:/Users/SOEE/Desktop/vashalite/data/odia/common_voice_or_22250638.wav,or,ory,0.9992443323135376,"['ory', 'asm', 'bfz']",False,False
