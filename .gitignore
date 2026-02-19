@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Models and Large Data
+# Assuming these directories contain large model files or datasets
+Facebook MMS LID 1024/
+FacebookMMS_1B ASR/
+voxlingua-ecapa/
+INDIC-LID/
+
+# Results (optional, but sometimes we want to keep them. User said "push this code", usually results are committed if small, but model weights are not.
+# keeping model_comparison_results as it contains the charts for readme)
+
+# IDE specific
+.idea/
+.vscode/
+*.swp

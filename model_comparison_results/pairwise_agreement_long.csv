@@ -1,0 +1,4 @@
+model_a,model_a_label,model_b,model_b_label,shared_samples,agreement
+facebook/mms-lid-1024,Facebook MMS-LID-1024,speechbrain/lang-id-voxlingua107-ecapa,SpeechBrain ECAPA LID,108,0.0
+facebook/mms-lid-1024,Facebook MMS-LID-1024,facebook/mms-1b-all,Facebook MMS-1B-All,108,1.0
+speechbrain/lang-id-voxlingua107-ecapa,SpeechBrain ECAPA LID,facebook/mms-1b-all,Facebook MMS-1B-All,10662,0.6835490527105609

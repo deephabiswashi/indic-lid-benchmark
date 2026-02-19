@@ -1,0 +1,14 @@
+model,true_lang,accuracy,samples,model_label
+facebook/mms-1b-all,as,1.0,3256,Facebook MMS-1B-All
+facebook/mms-1b-all,bn,1.0,3464,Facebook MMS-1B-All
+facebook/mms-1b-all,hi,1.0,97,Facebook MMS-1B-All
+facebook/mms-1b-all,or,1.0,3211,Facebook MMS-1B-All
+facebook/mms-1b-all,ta,1.0,539,Facebook MMS-1B-All
+facebook/mms-1b-all,te,1.0,95,Facebook MMS-1B-All
+facebook/mms-lid-1024,or,1.0,108,Facebook MMS-LID-1024
+speechbrain/lang-id-voxlingua107-ecapa,as,0.9886363636363636,3256,SpeechBrain ECAPA LID
+speechbrain/lang-id-voxlingua107-ecapa,bn,0.973729792147806,3464,SpeechBrain ECAPA LID
+speechbrain/lang-id-voxlingua107-ecapa,hi,1.0,97,SpeechBrain ECAPA LID
+speechbrain/lang-id-voxlingua107-ecapa,or,0.0,3211,SpeechBrain ECAPA LID
+speechbrain/lang-id-voxlingua107-ecapa,ta,0.9387755102040817,539,SpeechBrain ECAPA LID
+speechbrain/lang-id-voxlingua107-ecapa,te,0.9789473684210527,95,SpeechBrain ECAPA LID

@@ -1,0 +1,4 @@
+model,samples,overall_accuracy,mean_confidence,label_quality,macro_accuracy,model_label
+facebook/mms-lid-1024,108,1.0,0.9955735355615616,direct,1.0,Facebook MMS-LID-1024
+speechbrain/lang-id-voxlingua107-ecapa,10662,0.6835490527105609,-0.18272788588270936,direct,0.8133481724015507,SpeechBrain ECAPA LID
+facebook/mms-1b-all,10662,1.0,,proxy,1.0,Facebook MMS-1B-All
