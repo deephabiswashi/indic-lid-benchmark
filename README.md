@@ -50,3 +50,28 @@ python evaluate_indian_language_model_comparison.py --out-dir model_comparison_r
 ```
 
 Ensure you have the required dependencies installed (pandas, matplotlib, seaborn, scikit-learn).
+
+## 📂 Model Benchmarking & Scripts
+
+The repository includes detailed evaluation scripts and results for individual models.
+
+### 1. Facebook MMS-1B-All (ASR Proxy)
+Located in `FacebookMMS_1B ASR/`:
+*   **Scripts:** Contains the ASR inference pipeline.
+*   **Results:** `results/global_analysis.json` provides key performance metrics:
+    *   **Mean Inference Time:** ~0.64 seconds per sample
+    *   **Empty Output Rate:** 1.3%
+    *   **Mean Output Length:** ~94 characters
+
+### 2. SpeechBrain ECAPA-TDNN
+Located in `voxlingua-ecapa/`:
+*   **Scripts:** A full 7-part evaluation suite:
+    *   `part1_dataset_sampling.py`: Data preparation.
+    *   `part2_lid_inference_multidataset.py`: Running inference.
+    *   `part7_full_multidataset_evaluation.py`: Comprehensive evaluation.
+*   **Results:** Detailed CSVs and plots in `results/` showing performance across IndicVoices, VoxLingua, and FLEURS.
+
+### 3. Facebook MMS-LID
+Located in `Facebook MMS LID 1024/`:
+*   **Results:** Contains raw JSON predictions (`lid_results_whisper_mms.json`) used for the comparative analysis.
+

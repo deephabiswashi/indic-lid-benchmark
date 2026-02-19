@@ -1,0 +1,9 @@
+{
+    "samples": 10662,
+    "mean_duration_sec": 8.533641699948127,
+    "median_duration_sec": 7.38,
+    "mean_output_length": 93.98058525604952,
+    "empty_output_rate_%": 1.3,
+    "mean_rms_energy": 0.09992952347579138,
+    "mean_inference_time_sec": 0.6408478052898143
+}

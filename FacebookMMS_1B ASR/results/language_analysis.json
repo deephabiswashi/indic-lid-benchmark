@@ -1,0 +1,83 @@
+{
+    "as": {
+        "samples": 3000,
+        "mean_duration_sec": 8.115934775510203,
+        "median_duration_sec": 6.67,
+        "mean_output_length": 91.79,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.12035735083853513,
+        "mean_inference_time_sec": 0.6403652000000001
+    },
+    "assamese": {
+        "samples": 256,
+        "mean_duration_sec": 2.1433673469387755,
+        "median_duration_sec": 2.024489795918367,
+        "mean_output_length": 25.8671875,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.049600895928270806,
+        "mean_inference_time_sec": 0.47132421874999997
+    },
+    "bengali": {
+        "samples": 464,
+        "mean_duration_sec": 13.427974137931034,
+        "median_duration_sec": 12.54,
+        "mean_output_length": 122.85991379310344,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.03723947316013552,
+        "mean_inference_time_sec": 0.7783489224137932
+    },
+    "bn": {
+        "samples": 3000,
+        "mean_duration_sec": 8.110850895833334,
+        "median_duration_sec": 6.93003125,
+        "mean_output_length": 93.00766666666667,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.13642538889631314,
+        "mean_inference_time_sec": 0.6137682666666666
+    },
+    "hindi": {
+        "samples": 97,
+        "mean_duration_sec": 7.655080541237113,
+        "median_duration_sec": 6.400875,
+        "mean_output_length": 94.5979381443299,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.13029788437113782,
+        "mean_inference_time_sec": 0.6654309278350516
+    },
+    "odia": {
+        "samples": 108,
+        "mean_duration_sec": 5.782,
+        "median_duration_sec": 5.352,
+        "mean_output_length": 52.18518518518518,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.12746409226231808,
+        "mean_inference_time_sec": 0.6214916666666667
+    },
+    "ory": {
+        "samples": 3103,
+        "mean_duration_sec": 8.285342229294232,
+        "median_duration_sec": 7.835,
+        "mean_output_length": 87.26522719948437,
+        "empty_output_rate_%": 4.48,
+        "mean_rms_energy": 0.06487007607318825,
+        "mean_inference_time_sec": 0.6352274572993877
+    },
+    "tamil": {
+        "samples": 539,
+        "mean_duration_sec": 13.009016697588127,
+        "median_duration_sec": 11.7,
+        "mean_output_length": 155.03153988868274,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.05538635624325362,
+        "mean_inference_time_sec": 0.7376161410018554
+    },
+    "telegu": {
+        "samples": 95,
+        "mean_duration_sec": 15.134452631578949,
+        "median_duration_sec": 11.2410625,
+        "mean_output_length": 156.22105263157894,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.07971901444058135,
+        "mean_inference_time_sec": 0.927917894736842
+    }
+}

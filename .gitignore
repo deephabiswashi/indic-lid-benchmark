@@ -35,10 +35,26 @@ ENV/
 
 # Models and Large Data
 # Assuming these directories contain large model files or datasets
-Facebook MMS LID 1024/
-FacebookMMS_1B ASR/
-voxlingua-ecapa/
-INDIC-LID/
+# Models and Large Data
+# Ignore everything inside these folders by default...
+/Facebook MMS LID 1024/*
+# ...but explicitly allow specific files/folders to be committed
+!/Facebook MMS LID 1024/lid_results_whisper_mms.json
+
+/FacebookMMS_1B ASR/*
+!/FacebookMMS_1B ASR/scripts/
+!/FacebookMMS_1B ASR/results/
+!/FacebookMMS_1B ASR/plots/
+
+/voxlingua-ecapa/*
+!/voxlingua-ecapa/scripts/
+!/voxlingua-ecapa/results/
+!/voxlingua-ecapa/plots_multidataset/
+
+/INDIC-LID/*
+!/INDIC-LID/scripts/
+!/INDIC-LID/results/
+!/INDIC-LID/plots/
 
 # Results (optional, but sometimes we want to keep them. User said "push this code", usually results are committed if small, but model weights are not.
 # keeping model_comparison_results as it contains the charts for readme)

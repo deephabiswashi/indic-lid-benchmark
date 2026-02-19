@@ -1,0 +1,110 @@
+{
+    "aikosh_assamese": {
+        "samples": 256,
+        "mean_duration_sec": 2.1433673469387755,
+        "median_duration_sec": 2.024489795918367,
+        "mean_output_length": 25.8671875,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.049600895928270806,
+        "mean_inference_time_sec": 0.47132421874999997
+    },
+    "aikosh_bengali": {
+        "samples": 464,
+        "mean_duration_sec": 13.427974137931034,
+        "median_duration_sec": 12.54,
+        "mean_output_length": 122.85991379310344,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.03723947316013552,
+        "mean_inference_time_sec": 0.7783489224137932
+    },
+    "aikosh_hindi": {
+        "samples": 97,
+        "mean_duration_sec": 7.655080541237113,
+        "median_duration_sec": 6.400875,
+        "mean_output_length": 94.5979381443299,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.13029788437113782,
+        "mean_inference_time_sec": 0.6654309278350516
+    },
+    "aikosh_odia": {
+        "samples": 108,
+        "mean_duration_sec": 5.782,
+        "median_duration_sec": 5.352,
+        "mean_output_length": 52.18518518518518,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.12746409226231808,
+        "mean_inference_time_sec": 0.6214916666666667
+    },
+    "aikosh_tamil": {
+        "samples": 539,
+        "mean_duration_sec": 13.009016697588127,
+        "median_duration_sec": 11.7,
+        "mean_output_length": 155.03153988868274,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.05538635624325362,
+        "mean_inference_time_sec": 0.7376161410018554
+    },
+    "aikosh_telegu": {
+        "samples": 95,
+        "mean_duration_sec": 15.134452631578949,
+        "median_duration_sec": 11.2410625,
+        "mean_output_length": 156.22105263157894,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.07971901444058135,
+        "mean_inference_time_sec": 0.927917894736842
+    },
+    "commonvoice_as": {
+        "samples": 1000,
+        "mean_duration_sec": 5.603984326530613,
+        "median_duration_sec": 5.4,
+        "mean_output_length": 42.347,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.08324587847018634,
+        "mean_inference_time_sec": 0.5768736999999999
+    },
+    "commonvoice_bn": {
+        "samples": 1000,
+        "mean_duration_sec": 6.1508519999999995,
+        "median_duration_sec": 5.94,
+        "mean_output_length": 60.114,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.08955209851134256,
+        "mean_inference_time_sec": 0.5551939
+    },
+    "google_fleurs_ory": {
+        "samples": 883,
+        "mean_duration_sec": 12.089060022650056,
+        "median_duration_sec": 11.34,
+        "mean_output_length": 132.53227633069082,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.03959272922734857,
+        "mean_inference_time_sec": 0.7589014722536805
+    },
+    "indicvoices_ory": {
+        "samples": 2220,
+        "mean_duration_sec": 6.772422043918918,
+        "median_duration_sec": 6.0135,
+        "mean_output_length": 69.26036036036037,
+        "empty_output_rate_%": 6.26,
+        "mean_rms_energy": 0.0749240838501596,
+        "mean_inference_time_sec": 0.5860363963963964
+    },
+    "voxlingua_as": {
+        "samples": 2000,
+        "mean_duration_sec": 9.37191,
+        "median_duration_sec": 8.375,
+        "mean_output_length": 116.5115,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.1389130870227095,
+        "mean_inference_time_sec": 0.67211095
+    },
+    "voxlingua_bn": {
+        "samples": 2000,
+        "mean_duration_sec": 9.09085034375,
+        "median_duration_sec": 8.05,
+        "mean_output_length": 109.4545,
+        "empty_output_rate_%": 0.0,
+        "mean_rms_energy": 0.15986203408879845,
+        "mean_inference_time_sec": 0.64305545
+    }
+}

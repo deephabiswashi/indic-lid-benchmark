@@ -1,0 +1,38 @@
+{
+    "aikosh_assamese": {
+        "assamese": 256
+    },
+    "aikosh_bengali": {
+        "bengali": 464
+    },
+    "aikosh_hindi": {
+        "hindi": 97
+    },
+    "aikosh_odia": {
+        "odia": 108
+    },
+    "aikosh_tamil": {
+        "tamil": 539
+    },
+    "aikosh_telegu": {
+        "telegu": 95
+    },
+    "commonvoice_as": {
+        "as": 1000
+    },
+    "commonvoice_bn": {
+        "bn": 1000
+    },
+    "google_fleurs_ory": {
+        "ory": 883
+    },
+    "indicvoices_ory": {
+        "ory": 2220
+    },
+    "voxlingua_as": {
+        "as": 2000
+    },
+    "voxlingua_bn": {
+        "bn": 2000
+    }
+}
