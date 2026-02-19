@@ -1,0 +1,9 @@
+huggingface-hub
+
+fasttext
+numpy
+matplotlib
+seaborn
+networkx
+scikit-learn
+tqdm
